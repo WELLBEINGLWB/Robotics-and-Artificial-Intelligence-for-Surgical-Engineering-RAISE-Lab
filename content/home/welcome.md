@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The RAISE Lab focuses on the development of the next-generation surgical robots empowered by AI for surgical practice.
+The RAISE Lab devotes to developing the next-generation surgical robots empowered by AI for surgical practice.
